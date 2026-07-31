@@ -1,16 +1,48 @@
-## About this repository
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:1E3A8A,70:2563EB,100:38BDF8&height=220&section=header&text=Krynet%20Community&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Independent%20Community%20Organization&descAlignY=58" />
+</p>
 
-This is a **completely unofficial** community repository for **Krynet.ai**.
+<p align="center">
+  <strong>👥 Community • 🔒 Privacy • 🛠️ Open Collaboration</strong>
+</p>
 
-It is **not** owned, maintained, reviewed, endorsed, or used by **Krynet, LLC** or any member of the **Krynet Team**. Nothing in this repository should be interpreted as official documentation, policy, or development direction.
+<p align="center">
+  <a href="https://codeberg.org/Krynet-LLC">Official Codeberg</a>
+  •
+  <a href="https://gitlab.com/Krynet-Team">Official GitLab</a>
+</p>
 
-The goal of this project is simply to give the community a place to share knowledge, discuss Krynet, publish community resources, and collaborate on independent projects.
+---
 
-If you're looking for official information, source code, or releases, use the official repositories instead.
+> [!WARNING]
+> **This organization is completely unofficial.**
+>
+> It is **not affiliated with, maintained by, reviewed by, endorsed by, or used by Krynet, LLC or any member of the Krynet Team.** Everything published here is community-created and should not be interpreted as official documentation, policy, or development direction.
 
-### Official Repositories
+## 🌍 About
 
-* **Codeberg** — https://codeberg.org/Krynet-LLC
-* **GitLab** — https://gitlab.com/Krynet-Team *(Official Android & Linux application source)*
+Welcome to the community-driven home for **Krynet.ai**.
 
-Everything else in this repository is created and maintained by the community.
+This organization exists for users, developers, and privacy enthusiasts who want to collaborate around the Krynet ecosystem. Here you'll find community projects, guides, documentation, tools, discussions, and other independent resources.
+
+## 📦 What we do
+
+- 📚 Write community documentation
+- 🛠️ Build independent tools
+- 🧩 Maintain community projects
+- 💡 Share ideas and feedback
+- 🤝 Help new users
+- 🔬 Experiment with the ecosystem
+
+## 🏛️ Official Resources
+
+| Repository | Purpose |
+|------------|---------|
+| 🇮🇸 **Codeberg** | Official Krynet organization |
+| 💻 **GitLab** | Official Android & Linux application source |
+
+---
+
+<p align="center">
+Made by the community, for the community.
+</p>
