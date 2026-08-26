@@ -3,133 +3,167 @@
 </p>
 
 <p align="center">
-  <strong>👥 Community • 🔒 Privacy • 🛠️ Open Collaboration</strong>
+  <strong>👥 Community &nbsp;•&nbsp; 🔒 Privacy &nbsp;•&nbsp; 🛠️ Open Collaboration</strong>
 </p>
 
 <p align="center">
   <a href="https://codeberg.org/Krynet-LLC">Official Codeberg</a>
-  •
-  <a href="https://gitlab.com/Krynet-Team">Official GitLab</a>
+  &nbsp;•&nbsp;
+  <a href="https://gitlab.com/Krynet-Team">Official GitLab Mirror</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Krynet-LLC">Legacy GitHub</a>
 </p>
 
 ---
 
 > [!WARNING]
-> **This organization is completely unofficial.**
+> ## This is an independent community organization
 >
-> Krynet Community is **not affiliated with, maintained by, reviewed by, endorsed by, partnered with, or used by Krynet, LLC or any member of the Krynet Team.**
+> **Krynet Community is not affiliated with Krynet, LLC or the official Krynet Team.**
 >
-> Everything published here is community-created and should **not** be interpreted as official Krynet documentation, policy, software, security guidance, development direction, or product support.
-
-> [!CAUTION]
-> **Krynet Community does not follow the same security or quality practices as the official Krynet Team.**
+> We are an independent community organization created by users and developers around the Krynet ecosystem.
 >
-> Community projects are developed independently and may have different security standards, review processes, testing requirements, development practices, release procedures, and quality controls.
->
-> Do not assume that software published by Krynet Community has undergone the same security review, auditing, testing, or quality assurance as official Krynet software.
->
-> **Use community software at your own discretion and review its source, permissions, dependencies, and security implications before using it.**
+> Nothing published here should be considered official Krynet software, documentation, security guidance, policy, product support, or development direction unless Krynet, LLC explicitly confirms it through an official channel.
 
 > [!IMPORTANT]
-> **Krynet Community is not part of Krynet, LLC's UGC Program.**
+> ## About the Krynet UGC Program
 >
-> The Krynet UGC Program allows users and developers to create content and extensions for Krynet, including things such as plugins, themes, and other community-created content. Depending on the program's terms, creators may be able to publish content through the Krynet Store, offer it for free, or receive payment for eligible content.
+> Krynet Community is **not part of the official Krynet UGC Program**.
 >
-> Krynet Community is **not officially enrolled in, represented by, or operating under the Krynet UGC Program**.
+> The UGC Program allows users and developers to create things such as plugins, themes, extensions, and other content for Krynet. Eligible creators may be able to publish content through the Krynet Store or receive payment according to the program's terms.
 >
-> Projects published by this organization should therefore **not be interpreted as UGC Program submissions, UGC Program content, or content approved or reviewed by Krynet, LLC**.
-
-> [!NOTE]
-> **Krynet Community is not a Krynet partner.**
->
-> The organization has no official partnership, sponsorship, endorsement, commercial relationship, or other representation from Krynet, LLC unless explicitly stated by Krynet, LLC itself through an official channel.
+> Projects in this organization are independent community projects and should **not** be interpreted as UGC Program submissions, approved UGC, or content reviewed by Krynet, LLC.
 
 ## 🌍 About
 
-Welcome to the community-driven home for **Krynet.ai**.
+Welcome to **Krynet Community**.
 
-This organization exists for users, developers, and privacy enthusiasts who want to collaborate around the Krynet ecosystem independently from the official Krynet organization.
+This organization is a place for users, developers, and privacy enthusiasts to build and share things around the **Krynet.ai** ecosystem.
 
-Here you'll find community projects, guides, documentation, tools, discussions, experiments, ports, integrations, and other independent resources.
+We're interested in the stuff that naturally grows around a project:
 
-## 📦 What We Do
+- Community documentation
+- Independent tools
+- Integrations and ports
+- Themes and UI experiments
+- Development utilities
+- Research and experiments
+- Community guides
+- Technical discussions
+- Interesting ideas and prototypes
 
-* 📚 Write community documentation
-* 🛠️ Build independent tools
-* 🧩 Maintain community projects
-* 🔌 Develop independent integrations and ports
-* 🎨 Create themes and interface experiments
-* 💡 Share ideas and feedback
-* 🤝 Help other community members
-* 🔬 Experiment with the ecosystem
-* 📖 Document community discoveries and workflows
+The goal is simple: **give the community a place to build things independently.**
+
+## 📦 What You'll Find Here
+
+Projects in this organization can cover a pretty wide range of things.
+
+Some may be small experiments. Others may become long-term community projects.
+
+Examples include:
+
+| Type | Examples |
+| --- | --- |
+| 📚 Documentation | Guides, tutorials, references, community discoveries |
+| 🛠️ Tools | Utilities and developer tools |
+| 🔌 Integrations | Third-party integrations and ports |
+| 🎨 Themes | Themes, interface modifications, UI experiments |
+| 🔬 Research | Experiments, prototypes, and technical investigations |
+| 🤝 Community | Resources and projects built to help other users |
+
+Every project is maintained independently by its respective contributors.
 
 ## 🔒 Security & Quality
 
-Krynet Community projects are independently maintained.
+Community software should **not automatically be treated as equivalent to official Krynet software**.
 
-There is **no guarantee** that a project published here follows the same:
+Different projects may have completely different:
 
-* Security practices
-* Code-review procedures
-* Testing standards
-* Quality-assurance processes
-* Release procedures
-* Dependency-review practices
-* Vulnerability-management procedures
-* Privacy practices
-* Development standards
+- Security practices
+- Code-review processes
+- Testing
+- Release procedures
+- Dependency management
+- Vulnerability handling
+- Privacy practices
+- Development standards
 
-used by the official Krynet Team.
+Some projects may have extensive security practices. Others may simply be experiments.
 
-Individual repositories may establish their own security and quality policies. Check the repository's documentation before using its software.
+**Check the individual repository before using its software**, especially when dealing with sensitive information.
 
-For projects handling sensitive information, users should independently evaluate:
+For security-sensitive projects, consider reviewing:
 
-* Source code
-* Dependencies
-* Permissions
-* Network behavior
-* Data storage
-* Authentication
-* Cryptography
-* Update mechanisms
-* Third-party services
+- Source code
+- Dependencies
+- Required permissions
+- Network connections
+- Data storage
+- Authentication
+- Cryptography
+- Update mechanisms
+- Third-party services
 
-## 🏛️ Official Resources
+Don't assume that a project has been reviewed or audited by Krynet just because it is hosted here.
 
-| Resource                                                  | Purpose                             |
-| --------------------------------------------------------- | ----------------------------------- |
-| 🇮🇸 [Official Codeberg](https://codeberg.org/Krynet-LLC) | Official Krynet organization        |
-| 💻 [Official GitLab](https://gitlab.com/Krynet-Team)      | Official Krynet source repositories |
-| 🌐 [Krynet Website](https://krynet.ai)                    | Official Krynet website             |
+## 🏛️ Official Krynet Resources
 
-> [!NOTE]
-> For official Krynet software, policies, security information, UGC Program information, partnerships, and product announcements, refer to official Krynet channels.
+If you're looking for the actual official Krynet repositories or information, use the official channels below.
+
+| Resource | Status |
+| --- | --- |
+| 🇮🇸 [Codeberg](https://codeberg.org/Krynet-LLC) | **Current official organization** |
+| 💻 [GitLab](https://gitlab.com/Krynet-Team) | **Official mirror** |
+| 🐙 [GitHub](https://github.com/Krynet-LLC) | **Legacy official organization** |
+| 🌐 [Krynet.ai](https://krynet.ai) | **Official website** |
+
+### A note about the repositories
+
+The official Krynet repositories exist across several platforms, but they do not all have the same role.
+
+**Codeberg is the current official organization.**
+
+**GitLab is an official mirror of Krynet repositories.** It is not a separate community organization.
+
+**GitHub is a legacy official Krynet organization** and is retained as a historical reference rather than being the primary repository location.
+
+For current official software, announcements, policies, security information, partnerships, or UGC Program information, always prefer information published directly through an official Krynet channel.
 
 ## 🤝 Community Status
 
-Krynet Community operates independently.
+Krynet Community is intentionally separate from the official Krynet organization.
 
-Being hosted under this organization does **not** mean that a project:
+Hosting a project here does **not** mean that Krynet:
 
-* Is officially supported by Krynet
-* Is reviewed by Krynet
-* Is endorsed by Krynet
-* Is part of the Krynet UGC Program
-* Is available through the official Krynet Store
-* Is eligible for official Krynet creator payments
-* Is developed in partnership with Krynet
-* Meets official Krynet security or quality standards
+- Supports it
+- Reviews it
+- Endorses it
+- Maintains it
+- Audits it
+- Provides technical support for it
+- Includes it in the UGC Program
+- Makes it available through the official Krynet Store
+- Guarantees its security or quality
 
-Individual projects may have their own relationships with Krynet, but such relationships should only be considered official when explicitly confirmed through an official Krynet source.
+If a particular project has an actual relationship with Krynet, that relationship should be clearly documented and independently verifiable through an official Krynet source.
+
+Otherwise, assume that the project is simply a **community project**.
+
+## 💬 Why This Organization Exists
+
+Open communities tend to build things that the original project doesn't necessarily have time or reason to build.
+
+That's what this organization is for.
+
+Whether it's a tiny utility, an experimental integration, a useful guide, a weird prototype, or a serious community-maintained project, **Krynet Community is a place to experiment and collaborate without pretending to be the official Krynet organization.**
 
 ---
 
 <p align="center">
-Made independently by the community, for the community.
+  Made independently by the community, for the community.
 </p>
 
 <p align="center">
-<strong>Community Project · Not Official Krynet Software · Not a Krynet Partner · Not Part of the Krynet UGC Program</strong>
+  <strong>Community Project · Not Official Krynet Software</strong><br>
+  <sub>Not a Krynet Partner · Not Part of the Krynet UGC Program</sub>
 </p>
