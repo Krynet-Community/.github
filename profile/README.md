@@ -7,16 +7,19 @@
 </p>
 
 <p align="center">
-  <a href="https://codeberg.org/Krynet-LLC">Official Codeberg</a>
+  <a href="https://codeberg.org/Krynet-LLC">🇩🇪 Official Codeberg</a>
   &nbsp;•&nbsp;
-  <a href="https://gitlab.com/Krynet-Team">Official GitLab Mirror</a>
+  <a href="https://gitlab.com/Krynet-Team">🇺🇦 Official GitLab Mirror</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/Krynet-LLC">Legacy GitHub</a>
+  <a href="https://github.com/Krynet-LLC">🇺🇸 Legacy GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://krynet.ai">🇮🇸 Krynet.ai</a>
 </p>
 
 ---
 
 > [!WARNING]
+>
 > ## This is an independent community organization
 >
 > **Krynet Community is not affiliated with Krynet, LLC or the official Krynet Team.**
@@ -26,6 +29,7 @@
 > Nothing published here should be considered official Krynet software, documentation, security guidance, policy, product support, or development direction unless Krynet, LLC explicitly confirms it through an official channel.
 
 > [!IMPORTANT]
+>
 > ## About the Krynet UGC Program
 >
 > Krynet Community is **not part of the official Krynet UGC Program**.
@@ -40,17 +44,19 @@ Welcome to **Krynet Community**.
 
 This organization is a place for users, developers, and privacy enthusiasts to build and share things around the **Krynet.ai** ecosystem.
 
-We're interested in the stuff that naturally grows around a project:
+Krynet is an **Icelandic company operating within the broader European ecosystem**, and the community around it naturally includes users and developers from across Europe and elsewhere.
 
-- Community documentation
-- Independent tools
-- Integrations and ports
-- Themes and UI experiments
-- Development utilities
-- Research and experiments
-- Community guides
-- Technical discussions
-- Interesting ideas and prototypes
+We're interested in the things that naturally grow around a project:
+
+* 📚 Community documentation
+* 🛠️ Independent tools
+* 🔌 Integrations and ports
+* 🎨 Themes and UI experiments
+* 🧰 Development utilities
+* 🔬 Research and experiments
+* 📖 Community guides
+* 💬 Technical discussions
+* 💡 Interesting ideas and prototypes
 
 The goal is simple: **give the community a place to build things independently.**
 
@@ -60,16 +66,14 @@ Projects in this organization can cover a pretty wide range of things.
 
 Some may be small experiments. Others may become long-term community projects.
 
-Examples include:
-
-| Type | Examples |
-| --- | --- |
-| 📚 Documentation | Guides, tutorials, references, community discoveries |
-| 🛠️ Tools | Utilities and developer tools |
-| 🔌 Integrations | Third-party integrations and ports |
-| 🎨 Themes | Themes, interface modifications, UI experiments |
-| 🔬 Research | Experiments, prototypes, and technical investigations |
-| 🤝 Community | Resources and projects built to help other users |
+| Type             | Examples                                              |
+| ---------------- | ----------------------------------------------------- |
+| 📚 Documentation | Guides, tutorials, references, community discoveries  |
+| 🛠️ Tools        | Utilities and developer tools                         |
+| 🔌 Integrations  | Third-party integrations and ports                    |
+| 🎨 Themes        | Themes, interface modifications, UI experiments       |
+| 🔬 Research      | Experiments, prototypes, and technical investigations |
+| 🤝 Community     | Resources and projects built to help other users      |
 
 Every project is maintained independently by its respective contributors.
 
@@ -79,14 +83,14 @@ Community software should **not automatically be treated as equivalent to offici
 
 Different projects may have completely different:
 
-- Security practices
-- Code-review processes
-- Testing
-- Release procedures
-- Dependency management
-- Vulnerability handling
-- Privacy practices
-- Development standards
+* Security practices
+* Code-review processes
+* Testing
+* Release procedures
+* Dependency management
+* Vulnerability handling
+* Privacy practices
+* Development standards
 
 Some projects may have extensive security practices. Others may simply be experiments.
 
@@ -94,15 +98,15 @@ Some projects may have extensive security practices. Others may simply be experi
 
 For security-sensitive projects, consider reviewing:
 
-- Source code
-- Dependencies
-- Required permissions
-- Network connections
-- Data storage
-- Authentication
-- Cryptography
-- Update mechanisms
-- Third-party services
+* Source code
+* Dependencies
+* Required permissions
+* Network connections
+* Data storage
+* Authentication
+* Cryptography
+* Update mechanisms
+* Third-party services
 
 Don't assume that a project has been reviewed or audited by Krynet just because it is hosted here.
 
@@ -110,14 +114,14 @@ Don't assume that a project has been reviewed or audited by Krynet just because 
 
 If you're looking for the actual official Krynet repositories or information, use the official channels below.
 
-| Resource | Status |
-| --- | --- |
-| 🇮🇸 [Codeberg](https://codeberg.org/Krynet-LLC) | **Current official organization** |
-| 💻 [GitLab](https://gitlab.com/Krynet-Team) | **Official mirror** |
-| 🐙 [GitHub](https://github.com/Krynet-LLC) | **Legacy official organization** |
-| 🌐 [Krynet.ai](https://krynet.ai) | **Official website** |
+| Resource                                         | Status                            |
+| ------------------------------------------------ | --------------------------------- |
+| 🇩🇪 [Codeberg](https://codeberg.org/Krynet-LLC) | **Current official organization** |
+| 🇺🇦 [GitLab](https://gitlab.com/Krynet-Team)    | **Official mirror**               |
+| 🇺🇸 [GitHub](https://github.com/Krynet-LLC)     | **Legacy official organization**  |
+| 🇮🇸 [Krynet.ai](https://krynet.ai)              | **Official website**              |
 
-### A note about the repositories
+### A Note About the Repositories
 
 The official Krynet repositories exist across several platforms, but they do not all have the same role.
 
@@ -135,19 +139,27 @@ Krynet Community is intentionally separate from the official Krynet organization
 
 Hosting a project here does **not** mean that Krynet:
 
-- Supports it
-- Reviews it
-- Endorses it
-- Maintains it
-- Audits it
-- Provides technical support for it
-- Includes it in the UGC Program
-- Makes it available through the official Krynet Store
-- Guarantees its security or quality
+* Supports it
+* Reviews it
+* Endorses it
+* Maintains it
+* Audits it
+* Provides technical support for it
+* Includes it in the UGC Program
+* Makes it available through the official Krynet Store
+* Guarantees its security or quality
 
 If a particular project has an actual relationship with Krynet, that relationship should be clearly documented and independently verifiable through an official Krynet source.
 
 Otherwise, assume that the project is simply a **community project**.
+
+## 🌍 European Community
+
+Krynet has an Icelandic origin, but its community naturally extends beyond Iceland.
+
+The broader European privacy and open-source ecosystem is an important part of the environment around projects like Krynet. Community members may come from Iceland, EU member states, other European countries, and elsewhere around the world.
+
+This organization welcomes contributions regardless of where contributors are located.
 
 ## 💬 Why This Organization Exists
 
