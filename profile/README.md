@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <strong>👥 Community &nbsp;•&nbsp; 🔒 Privacy &nbsp;•&nbsp; 🛠️ Open Collaboration</strong>
+  <strong>👥 Community  •  🔒 Privacy  •  🛠️ Open Collaboration</strong>
 </p>
 
 <p align="center">
   <a href="https://codeberg.org/Krynet-LLC">🇩🇪 Official Codeberg</a>
-  &nbsp;•&nbsp;
+   • 
   <a href="https://gitlab.com/Krynet-Team">🇺🇦 Official GitLab Mirror</a>
-  &nbsp;•&nbsp;
+   • 
   <a href="https://github.com/Krynet-LLC">🇺🇸 Legacy GitHub</a>
-  &nbsp;•&nbsp;
+   • 
   <a href="https://krynet.ai">🇮🇸 Krynet.ai</a>
 </p>
 
@@ -152,6 +152,27 @@ Hosting a project here does **not** mean that Krynet:
 If a particular project has an actual relationship with Krynet, that relationship should be clearly documented and independently verifiable through an official Krynet source.
 
 Otherwise, assume that the project is simply a **community project**.
+
+## 💻 Community Clients
+
+Some community projects provide independent clients for Krynet.
+
+These clients are developed by community contributors and aim to provide functionality as close to the official Krynet experience as possible. They may also provide clients for platforms where Krynet does not offer an official native client.
+
+Community clients are still independent software. They are not official Krynet clients and may differ from official clients in implementation, features, update schedules, compatibility, security practices, or platform support.
+
+Some community clients also use community-developed infrastructure such as the **KAI Compatibility Layer** to support multiple platforms and provide shared functionality.
+
+Users should review the individual client and its development practices before deciding whether to use it.
+
+### Advertising & Tracking
+
+Some community clients, support advertising and tracking as part of their funding model.
+They are stated that advertising and tracking are used to help **fund the development and operation of the Community**.
+
+Users who prioritize minimizing advertising or tracking should take this into account when choosing a community client.
+
+Community software should not automatically be assumed to be ad-free, tracking-free, or privacy-focused simply because it is independently developed.
 
 ## 🌎 International Community
 
