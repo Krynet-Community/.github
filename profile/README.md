@@ -44,7 +44,7 @@ Welcome to **Krynet Community**.
 
 This organization is a place for users, developers, and privacy enthusiasts to build and share things around the **Krynet.ai** ecosystem.
 
-Krynet is an **Icelandic company operating within the broader European ecosystem**, and the community around it naturally includes users and developers from across Europe and elsewhere.
+Krynet is an **Icelandic company**, while the community surrounding it is international. The community is not operated by Krynet, LLC and does not represent Krynet or any particular country, government, or regional organization.
 
 We're interested in the things that naturally grow around a project:
 
@@ -153,13 +153,15 @@ If a particular project has an actual relationship with Krynet, that relationshi
 
 Otherwise, assume that the project is simply a **community project**.
 
-## 🌍 European Community
+## 🌎 International Community
 
-Krynet has an Icelandic origin, but its community naturally extends beyond Iceland.
+Krynet has an Icelandic origin, but **Krynet Community is an independent international community organization**.
 
-The broader European privacy and open-source ecosystem is an important part of the environment around projects like Krynet. Community members may come from Iceland, EU member states, other European countries, and elsewhere around the world.
+The organization is not limited to Iceland or any particular European country. Contributors and projects may be based in different parts of the world, subject to the organization's contribution policies.
 
-This organization welcomes contributions regardless of where contributors are located.
+**Contributions from individuals or entities based in the European Union are not accepted by this organization.**
+
+This restriction does not make Krynet Community a representative of any particular non-EU country or jurisdiction. The organization remains an independent community project.
 
 ## 💬 Why This Organization Exists
 
